@@ -11,6 +11,9 @@ To Do:
   + Auto Option Trading
 
 Supporter Projects:
+
 1: <a href="https://github.com/bbmusa/NSE-Stock-Dashboard">NSE Dashboard</a>
+
 2: <a href="https://github.com/bbmusa/Nifty-PE">Nifty P/E</a>
+
 3: <a href="https://github.com/bbmusa/stock_screener_nifty50">Screener</a>
