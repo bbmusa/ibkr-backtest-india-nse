@@ -4,12 +4,6 @@
 Current rep:
   + Backtest/Backtest_git: Simple and easy way to calculate sharpe, return, max Draw down using single/multiple strategies,
 
-To Do:
-  + Live trading
-  + Live excel based Paper Trading
-  + Japanes style trading
-  + Auto Option Trading
-
 Supporter Projects:
 
 1: <a href="https://github.com/bbmusa/NSE-Stock-Dashboard">NSE Dashboard</a>
@@ -17,3 +11,5 @@ Supporter Projects:
 2: <a href="https://github.com/bbmusa/Nifty-PE">Nifty P/E</a>
 
 3: <a href="https://github.com/bbmusa/stock_screener_nifty50">Screener</a>
+
+![image](https://user-images.githubusercontent.com/65719349/201109022-a7924944-d5fc-4a40-8772-295857cd7551.png)
