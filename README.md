@@ -17,5 +17,4 @@ Supporter Projects:
 2: <a href="https://github.com/bbmusa/Nifty-PE">Nifty P/E</a>
 
 3: <a href="https://github.com/bbmusa/stock_screener_nifty50">Screener</a>
-
-![image](https://user-images.githubusercontent.com/65719349/201109022-a7924944-d5fc-4a40-8772-295857cd7551.png)
+![image](https://user-images.githubusercontent.com/65719349/202381079-a62a0816-0264-40e6-b3c8-95e883daa068.png)
